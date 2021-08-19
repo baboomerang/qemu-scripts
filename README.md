@@ -1,2 +1,2 @@
-# linux-scripts
-Personal Collection of Scripts
+# qemu-scripts
+Personal collection of scripts
